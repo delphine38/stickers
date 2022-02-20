@@ -30,11 +30,13 @@ export default {
 
 <!--css-->
 <style>
-#toutesimages {
-  display: flex;
-}
 .images {
+  background-color: blue;
+  display: flex;
   flex-wrap: wrap;
+}
+#toutesimages.images img {
+  width: 15%;
 }
 </style>
 
