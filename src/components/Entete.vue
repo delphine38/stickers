@@ -1,6 +1,5 @@
 <template>
-  <h1>section header</h1>
-  <img src="assets/a.jpg" />
+  <header></header>
 </template>
 
 <script>
@@ -9,5 +8,15 @@ export default {
 };
 </script>
 
+
+
+
 <style>
+header {
+  background-image: url("../assets/headerimg.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 300px;
+  padding-top: 10px;
+}
 </style>
