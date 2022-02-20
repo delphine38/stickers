@@ -4,17 +4,12 @@
   <h3 class="text-center">Voici quelques projet éffectuer</h3>
 
   <div class="container">
-    <div id="toutesimages">
-      <div class="images">
-        <img src="assets/a.jpg" />
-        <img src="assets/a.jpg" />
-        <img src="assets/a.jpg" />
-        <img src="assets/a.jpg" />
-        <img src="assets/a.jpg" />
-        <img src="assets/a.jpg" />
-        <img src="assets/a.jpg" />
-      </div>
-    </div>
+    <img src="../assets/a.jpg" />
+    <img src="../assets/a.jpg" />
+    <img src="../assets/a.jpg" />
+    <img src="../assets/a.jpg" />
+    <img src="../assets/a.jpg" />
+    <img src="../assets/a.jpg" />
   </div>
   <hr />
   <img src="assets/a.jpg" />
@@ -30,13 +25,15 @@ export default {
 
 <!--css-->
 <style>
-.images {
-  background-color: blue;
+.container {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
-#toutesimages.images img {
-  width: 15%;
+.container img {
+  background-color: red;
+  width: 300px;
 }
 </style>
 
