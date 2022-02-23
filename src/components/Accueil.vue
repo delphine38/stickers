@@ -19,7 +19,7 @@
     <article>
       <img src="../assets/teeshirtpauline.jpg" />
       <img src="../assets/sacpauline.jpg" />
-      <p>Remerciements pour fin d'année scolaire</p>
+      <p class="text-center">Remerciements pour fin d'année scolaire</p>
     </article>
 
     <article>
