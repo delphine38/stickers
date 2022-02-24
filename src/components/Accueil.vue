@@ -27,10 +27,20 @@
       <p>Ce mec .....</p>
     </article>
 
-    <img src="../assets/h.jpg" />
-    <img src="../assets/i.jpg" />
-    <img src="../assets/j.jpg" />
-    <img src="../assets/k.jpg" />
+    <article>
+      <img src="../assets/jopizza.jpg" />
+      <p>Jo Pizza</p>
+    </article>
+
+    <article>
+      <img src="../assets/cacheplaque.jpg" />
+      <p>Cache Plaque</p>
+    </article>
+
+    <article>
+      <img src="../assets/fakewheels.jpg" />
+      <p>Stick sur jantes</p>
+    </article>
   </div>
 
   <h3 class="text-center">
