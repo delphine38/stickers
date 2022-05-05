@@ -8,7 +8,7 @@
     Pour toutes commandes, envoyer un mail à : alice@protonmail.com
   </h2>
 
-  <h3 class="text-center m-5">Quelques flocages :</h3>
+  <h3 class="text-center m-5">Quelques flocages réalisés :</h3>
 
   <div class="container">
     <div class="p-1 d-flex flex-wrap text-center">
