@@ -1,7 +1,7 @@
 <template>
   <h1 class="text-center">Vous avez des questions ou des suggestions 😉 ...</h1>
   <h6 class="text-center">
-    <a href="https://www.facebook.com/stickermania69/"
+    <a href="https://www.facebook.com/stickflock"
       >cliquez ici, Stickers et Flocages 69</a
     >
   </h6>
