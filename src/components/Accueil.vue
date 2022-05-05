@@ -3,7 +3,7 @@
     Stickers et Flocages 69 Vous souhaite la Bienvenue !
   </h1>
   <h2 class="text-center my-5">
-    Chez Stick flock 69, nous faisons sur mesure et personnalisé vos stickers et
+    Chez Stick flock 69, je réalise sur mesure et personnalisé vos stickers et
     flocages. <br />
     Pour toutes commandes, envoyer un mail à : alice@protonmail.com
   </h2>
@@ -11,36 +11,48 @@
   <h3 class="text-center m-5">Quelques flocages :</h3>
 
   <div class="container">
-    <article>
-      <img src="../assets/sacboule.jpg" />
-      <p>Sac de boule personnalisé</p>
-    </article>
+    <div class="p-1 d-flex flex-wrap text-center">
+      <div class="card-body">
+        <img src="../assets/sacboule.jpg" />
+        <p>Sac de boule personnalisé</p>
+      </div>
 
-    <article>
-      <img src="../assets/teeshirtpauline.jpg" />
-      <img src="../assets/sacpauline.jpg" />
-      <p class="text-center">Remerciements pour fin d'année scolaire</p>
-    </article>
+      <div class="card-body">
+        <img src="../assets/b.jpg" />
+        <p>Tee-shirt personnalisé</p>
+      </div>
 
-    <article>
-      <img src="../assets/teeshirtmecsuper.jpg" />
-      <p>Ce mec .....</p>
-    </article>
+      <div class="card-body">
+        <img src="../assets/teeshirtpauline.jpg" />
+        <img src="../assets/sacpauline.jpg" />
+        <p class="text-center">Remerciements pour fin d'année scolaire</p>
+      </div>
 
-    <article>
-      <img src="../assets/jopizza.jpg" />
-      <p>Jo Pizza</p>
-    </article>
+      <div class="card-body">
+        <img src="../assets/teeshirtmecsuper.jpg" />
+        <p>Ce mec .....</p>
+      </div>
 
-    <article>
-      <img src="../assets/cacheplaque.jpg" />
-      <p>Cache Plaque</p>
-    </article>
+      <div class="card-body">
+        <img src="../assets/jopizza.jpg" />
+        <p>Jo Pizza</p>
+      </div>
 
-    <article>
-      <img src="../assets/fakewheels.jpg" />
-      <p>Stick sur jantes</p>
-    </article>
+      <div class="card-body">
+        <img src="../assets/cacheplaque.jpg" />
+        <p>Cache Plaque</p>
+      </div>
+
+      <div class="card-body">
+        <img src="../assets/boiteelastique.jpg" />
+        <p>Boite à élastique</p>
+      </div>
+
+      <div class="card-body">
+        <img src="../assets/fakewheels.jpg" />
+        <p>Stick sur jantes</p>
+      </div>
+    </div>
   </div>
 
   <h3 class="text-center">

@@ -13,7 +13,7 @@ export default {
 
 <style>
 header {
-  background-image: url("../assets/headerimg.jpg");
+  background-image: url("../assets/headerimg2.jpg");
   background-size: cover;
   background-position: center;
   padding-bottom: 300px;
